@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>Image/btnback.png</file>
+        <file>Image/战略模式.jpg</file>
+        <file>Image/回合模式.jpg</file>
+        <file>Image/即时模式.jpg</file>
+        <file>Image/计时模式.jpg</file>
+        <file>Image/总数模式.jpg</file>
+        <file>Image/BTG.png</file>
+        <file>Image/ETG.png</file>
+        <file>Image/GIS.png</file>
+        <file>Image/stop.png</file>
+        <file>Image/menu.jpg</file>
+        <file>Image/132.png</file>
+        <file>Image/123.png</file>
+        <file>Image/141.png</file>
+        <file>Image/321.png</file>
+        <file>Image/1221.png</file>
+        <file>Image/choose.png</file>
+        <file>Image/Left.png</file>
+        <file>Image/right.png</file>
+        <file>Image/btnMove.png</file>
+        <file>Image/goal.png</file>
+        <file>Image/win1.png</file>
+        <file>Image/win2.png</file>
+        <file>Image/bothwin.png</file>
+    </qresource>
+    <qresource prefix="/place">
+        <file>Image/草地.jpg</file>
+        <file>Image/土地.jpg</file>
+        <file>Image/雪地.jpg</file>
+        <file>Image/水泥.jpg</file>
+        <file>Image/银河.jpg</file>
+    </qresource>
+    <qresource prefix="/baller">
+        <file>Image/classic_show.png</file>
+        <file>Image/metel_show.png</file>
+        <file>Image/wood_show.png</file>
+    </qresource>
+    <qresource prefix="/guy">
+        <file>Image/classic.png</file>
+        <file>Image/wood.png</file>
+        <file>Image/ball.png</file>
+        <file>Image/metal.png</file>
+        <file>Image/classic2.png</file>
+        <file>Image/metal2.png</file>
+        <file>Image/wood2.png</file>
+    </qresource>
+    <qresource prefix="/ground">
+        <file>Image/cement.png</file>
+        <file>Image/galaxy.png</file>
+        <file>Image/grass.png</file>
+        <file>Image/ice.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>Image/Animal Kingdom - Get Away With It.mp3</file>
+        <file>Image/Coll.wav</file>
+    </qresource>
+</RCC>
